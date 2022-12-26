@@ -1,4 +1,2 @@
 some text in side file 1
 changes to make count
-add third lines
-added fourth lines
